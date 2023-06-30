@@ -1,4 +1,6 @@
-I'm [nize](https://nize.foo), a web developer with a keyboard.
+<sup>"Oh, look! A human with a keyboard. How rare and fascinating!" 🎹</sup>
+
+I'm [nize](https://nize.foo), a web developer from the Philippines.
 
 ```yaml
 OS: Fedora Linux, Windows 11
