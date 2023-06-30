@@ -7,4 +7,4 @@ Technologies I like:
 - Node.js, Express, Firebase, PostgreSQL, MySQL
 ```
 
-TypeScript is my forte, but I'm looking to dabble with other technologies.
+TypeScript is my forte, but I'm currently looking to dabble with other technologies.
