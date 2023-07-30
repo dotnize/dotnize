@@ -7,4 +7,4 @@ Tech I like:
 - Node.js, Express, Firebase, PostgreSQL, MySQL
 ```
 
-I like TypeScript, and I'm currently looking to explore Go.
+I like TypeScript, and I'm currently looking to explore Rust.
