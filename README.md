@@ -1,4 +1,4 @@
-I'm [Nate](https://n9ze.com), a developer from the Philippines.
+I'm [nize](https://n9ze.com), a developer from the Philippines.
 
 ```yaml
 OS: Fedora Linux, Windows 11
