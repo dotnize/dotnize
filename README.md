@@ -1,1 +1,1 @@
-I'm *nize*. I build stuff at [Mugnavo](https://mugnavo.com).
+I'm [nize](https://nize.foo), a developer from the Philippines.
