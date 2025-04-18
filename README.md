@@ -1,5 +1,5 @@
 Hi there.
 
 <samp>
-  > <a href="https://nize.foo">nize.foo</a>
+  > <a href="https://nize.ph">nize.ph</a>
 </samp>
